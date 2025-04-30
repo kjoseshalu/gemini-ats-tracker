@@ -41,7 +41,7 @@ ATS Tracking System is a Streamlit-based web application that leverages Googleâ€
 Clone the GitHub repository to your local system to get the source code.
 
 ```sh
-git clone https://github.com/kjoseshalu/Calories-Insight.git
+git clone https://github.com/kjoseshalu/gemini-ats-tracker.git
 cd Calories-Insight
 
 ```
